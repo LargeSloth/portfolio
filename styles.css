@@ -9,7 +9,7 @@ body {
 
     list-style: none;
     margin: 0;
-    background: deepskyblue;
+    background: rgb(28, 108, 134);
 }
 
 a {
@@ -22,7 +22,7 @@ a {
 
 a:hover {
     text-decoration: line-through;
-    background: #1565c0;
+    background: #193350;
 }
 
 .name {
@@ -41,11 +41,11 @@ a:hover {
 
 .project1 {
     display: inline-block;
-    border: 1px solid red;
+    border: 3px solid #6b6969;
     padding: 1rem 1rem;
     vertical-align: middle;
     width: 500px;
-    height: 250px;
+    height: 450px;
 }
 
 .projects2 {
@@ -56,11 +56,11 @@ a:hover {
 
 .project2 {
     display: inline-block;
-    border: 1px solid red;
+    border: 3px solid #6b6969;
     padding: 1rem 1rem;
     vertical-align: middle;
     width: 500px;
-    height: 250px;
+    height: 450px;
 }
 
 .projects3 {
@@ -71,11 +71,11 @@ a:hover {
 
 .project3 {
     display: inline-block;
-    border: 1px solid red;
+    border: 3px solid #6b6969;
     padding: 1rem 1rem;
     vertical-align: middle;
     width: 500px;
-    height: 250px;
+    height: 450px;
 }
 
 .projects4 {
@@ -86,11 +86,11 @@ a:hover {
 
 .project4 {
     display: inline-block;
-    border: 1px solid red;
+    border: 3px solid #6b6969;
     padding: 1rem 1rem;
     vertical-align: middle;
     width: 500px;
-    height: 250px;
+    height: 450px;
 }
 
 .projects5 {
@@ -101,9 +101,9 @@ a:hover {
 
 .project5 {
     display: inline-block;
-    border: 1px solid red;
+    border: 3px solid #6b6969;
     padding: 1rem 1rem;
     vertical-align: middle;
     width: 500px;
-    height: 250px;
+    height: 450px;
 }
